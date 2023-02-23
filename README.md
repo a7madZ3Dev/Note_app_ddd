@@ -18,27 +18,37 @@ Note uses Firebase as the back-end provider. Services such as Authentication and
 <br>
 
 ## 📱 Screen Shots 
-:-------------------------:|:-------------------------:
-<img alt="jpg" src="preview/view_1.jpg" width= "300" /> | <img alt="jpg" src="preview/view_2.jpg" width= "300" /> 
-<img alt="jpg" src="preview/view_3.jpg" width= "300" />
+
+:-------------------------:|:-------------------------:|:-------------------------:
+<img alt="jpg" src="preview/view_1.jpg" />|<img alt="jpg" src="preview/view_2.jpg" />|<img alt="jpg" src="preview/view_3.jpg" /> 
+
 
 
 ## 🎥 Promo Video
+
 :-------------------------:|:-------------------------:
-<img alt="GIF" src="preview/demo_1.gif" width= "300" /> | <img alt="GIF" src="preview/demo_2.gif" width= "300" />
-<img alt="GIF" src="preview/demo_3.gif" width= "300" /> | <img alt="GIF" src="preview/demo_4.gif" width= "300" />
-<img alt="GIF" src="preview/demo_5.gif" width= "300" /> | <img alt="GIF" src="preview/demo_.gif" width= "300" />
+<img alt="GIF" src="preview/demo_1.gif" />|<img alt="GIF" src="preview/demo_2.gif" />
+<img alt="GIF" src="preview/demo_3.gif" />|<img alt="GIF" src="preview/demo_4.gif" />
+<img alt="GIF" src="preview/demo_5.gif" />|<img alt="GIF" src="preview/demo_.gif" />
 
 ## 🎯 Functionalities
 
 ✅ Create an account with your email and password (or you can choose to sign up with Google)
+
 ✅ Create a note
+
 ✅ Edit a note (the body or the color)
+
 ✅ Delete a note
+
 ✅ Add a To-Do to a note
+
 ✅ Edit a To-Do present inside a note (the name of the To-Do or if it is completed or not)
+
 ✅ Delete a To-Do present inside a note
+
 ✅ Change the order of the To-Dos
+
 <br>
 
 ## 🧑 Author
