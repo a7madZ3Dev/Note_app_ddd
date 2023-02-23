@@ -26,7 +26,7 @@ Note uses Firebase as the back-end provider. Services such as Authentication and
 
 <img alt="GIF" src="preview/demo_1.gif" width= "300" />  <img alt="GIF" src="preview/demo_2.gif" width= "300" />
 <img alt="GIF" src="preview/demo_3.gif" width= "300" />  <img alt="GIF" src="preview/demo_4.gif" width= "300" />
-<img alt="GIF" src="preview/demo_5.gif" width= "300" />  <img alt="GIF" src="preview/demo_.gif" width= "300" />
+<img alt="GIF" src="preview/demo_5.gif" width= "300" />  <img alt="GIF" src="preview/demo_6.gif" width= "300" />
 
 ## 🎯 Functionalities
 
