@@ -46,6 +46,11 @@ Note uses Firebase as the back-end provider. Services such as Authentication and
 
 ✅ Change the order of the To-Dos
 
+
+## 🔗 Reso Coder course:
+
+https://resocoder.com/2020/03/09/flutter-firebase-ddd-course-1-domain-driven-design-principles/
+
 <br>
 
 ## 🧑 Author
