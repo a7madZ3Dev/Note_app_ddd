@@ -19,17 +19,14 @@ Note uses Firebase as the back-end provider. Services such as Authentication and
 
 ## 📱 Screen Shots 
 
-:-------------------------:|:-------------------------:|:-------------------------:
-<img alt="jpg" src="preview/view_1.jpg" />|<img alt="jpg" src="preview/view_2.jpg" />|<img alt="jpg" src="preview/view_3.jpg" /> 
-
+<img alt="jpg" src="preview/view_1.jpg" width= "300" />  <img alt="jpg" src="preview/view_2.jpg" width= "300" />  <img alt="jpg" src="preview/view_3.jpg" width= "300" /> 
 
 
 ## 🎥 Promo Video
 
-:-------------------------:|:-------------------------:
-<img alt="GIF" src="preview/demo_1.gif" />|<img alt="GIF" src="preview/demo_2.gif" />
-<img alt="GIF" src="preview/demo_3.gif" />|<img alt="GIF" src="preview/demo_4.gif" />
-<img alt="GIF" src="preview/demo_5.gif" />|<img alt="GIF" src="preview/demo_.gif" />
+<img alt="GIF" src="preview/demo_1.gif" width= "300" />  <img alt="GIF" src="preview/demo_2.gif" width= "300" />
+<img alt="GIF" src="preview/demo_3.gif" width= "300" />  <img alt="GIF" src="preview/demo_4.gif" width= "300" />
+<img alt="GIF" src="preview/demo_5.gif" width= "300" />  <img alt="GIF" src="preview/demo_.gif" width= "300" />
 
 ## 🎯 Functionalities
 
